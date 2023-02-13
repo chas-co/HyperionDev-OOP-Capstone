@@ -30,7 +30,7 @@ The program also defines the following functions:
 * highest_qty: Determines the product with the highest quantity.
 
 ## Installation
-To install the Inventory Management System, simply clone the repository and run the inventory.py file using Python 3.
+To run the Inventory Management System, simply clone the repository and run the inventory.py file using Python 3.
 
 ## Usage
 Upon running the program, a menu will be displayed that allows you to execute each of the functions defined above.
