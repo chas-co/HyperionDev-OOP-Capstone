@@ -35,6 +35,7 @@ To install the Inventory Management System, simply clone the repository and run 
 
 ## Usage
 Upon running the program, a menu will be displayed that allows you to execute each of the functions defined above.
+![menu](menu_snap.png)
 
 ## Credits
 This project was created by Charles-Spencer Coleman.
