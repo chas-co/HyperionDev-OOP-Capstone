@@ -2,11 +2,10 @@
 A Python program for managing inventory data. The program reads from the text file inventory.txt and performs various actions on the data. The program makes use of a class named Shoes to represent each item in the inventory and a list to store these Shoe objects.
 
 ## Table of Contents
-* Overview
-* Installation
-* Usage
-* Credits
-* Overview
+* [Overview](#overview)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
 
 The Shoes class has the following attributes:
 
